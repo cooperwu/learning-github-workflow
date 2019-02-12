@@ -1,5 +1,5 @@
-# learn-github-wf
+# Learning Github Workflow
 
-Testing Repo for github WF and my actions.
+Learning Repo for Github Workflow and my action - [DingTalk Notification](https://github.com/marketplace/actions/github-action-for-dingtalk).
 
-Tested at 5:10 pm.
+Last Tested at 2/12/2019 5:10 pm.
